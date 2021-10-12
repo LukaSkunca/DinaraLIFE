@@ -262,7 +262,7 @@
 				<Title>grid50x50_2021_vatrene_plohe_htrs_ls_v1</Title>
 				<Abstract>GH:grid50x50_2021_vatrene_plohe_htrs_ls_v1 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/LukaSkunca/DinaraLIFE/releases/download/Map_Download/grid50x50_2021_vatrene_plohe_htrs_ls_v1.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="16.642673736774306" miny="43.829640376126385" maxx="16.647168748109998" maxy="43.83474118979314"></LatLonBoundingBox>
